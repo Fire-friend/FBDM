@@ -1,2 +1,2 @@
 # FBDM
-The official code of Information transfer in semi-supervised semantic segmentation.
+The official code of Foreground-Background Decoupling Matting.
